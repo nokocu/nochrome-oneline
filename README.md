@@ -1,11 +1,11 @@
-# nochrome theme for Vivaldi Browser
-An "oneline" CSS theme for Vivaldi, heavily inspired by the chrome UI. 
+# onechrome
+An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI. 
 
 ![screenshot 3.png](screenshot%203.png)
 
 ## Features
 - **Familiar look**: It replicates Chrome UI, just that it combines all into one compact line.
-- **Customizable colors**: All colors are customizable via Vivaldi theme settings, and tab's width is customizable via CSS file.
+- **Customizable colors**: All colors are customizable via Vivaldi theme settings.
 - **Dynamic colors**: Compatible with Vivaldi's page accent colors. Go to Settings > Themes > Editor > Enable "Accent from Page"
 
 ![screenshot 4.png](screenshot%204.png)
