@@ -1,4 +1,4 @@
-# onechrome
+# nochrome oneline
 An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI. 
 
 ![screenshot 3.png](screenshot%203.png)
@@ -11,8 +11,8 @@ An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI.
 ![screenshot 4.png](screenshot%204.png)
 
 ## Installation
-1. Download onechrome folder.
-	* Unzip the contents of the onechrome folder to your Documents folder, called `onechrome`
+1. Download nochrome-oneline folder.
+	* Unzip the contents of the onechrome folder to your Documents folder, called `nochrome-oneline`
 2. Go to `vivaldi://experiments`
 	* Enable `Allow for using CSS modifications`
 3. Open Vivaldi Settings
@@ -22,7 +22,7 @@ An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI.
     	* Restart the browser
 5. In settings, go to `Themes > Open Theme...`
 	* Navigate to the "nochrome" folder from your documents
-	* Select the `theme-onechrome.zip`
+	* Select the `theme-nochrome-oneline.zip`
 	* Click install
 6. In settings, search for `Extension Visiblity` and:
 	* Select `Toggle All Extensions`
