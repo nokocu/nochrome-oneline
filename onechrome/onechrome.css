@@ -24,6 +24,7 @@
 	border: none !important;
 	background-color: var(--new-url) !important;
 	transition: background-color 0.2s !important;
+	color: var(--colorAccentFg) !important;
 }
 .UrlBar-AddressField:hover:not(:has(#urlFieldInput:focus)) {
 	background-color: var(--new-urlhover) !important;
@@ -53,18 +54,22 @@
 	padding-right: 0px !important;
 }
 
+/* url insecure page appearance */
+.siteinfo-text {
+	font-size: 0px !important;
+	margin-left: 50px !important;
+}
 
-/* urltext hide https:// part */
-.UrlFragment--Lowlight:first-of-type {
+/* urltext wrapper - hide https:// and www parts */
+.UrlFragment--Lowlight:first-of-type, .UrlFragment-HostFragment-Subdomain {
     display: none;
 }
 
 
-/* urltext hide www part */
-.UrlFragment-HostFragment-Subdomain {
-    display: none;
+/* urltext wrapper - colors */
+.UrlFragment-HostFragment-Basedomain, .UrlFragment-HostFragment-TLD {
+	color: var(--colorAccentFg) !important;
 }
-
 
 /* =============== tabbar =============== */
 
@@ -86,7 +91,7 @@
 	justify-content: center !important;
 	border-radius: 20px !important;
 	max-width: 234px !important;
-	color: var(--colorFg) !important;
+	color: var(--colorAccentFg) !important;
 	transition: 0.2s !important;
 	background-color: transparent !important;
 }
@@ -95,7 +100,7 @@
 /* tab active */
 .tab-strip .active {
 	background-color: var(--new-url) !important;
-	color: var(--colorFg) !important;
+	color: var(--colorAccentFg) !important;
 }	
 
 
@@ -155,7 +160,7 @@
 .mainbar {
 	border: 0px !important;
 	display: flex !important;
-	color: var(--colorFg) !important; 
+	color: var(--colorAccentFg) !important; 
 }
 
 
