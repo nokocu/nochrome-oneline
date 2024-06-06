@@ -31,5 +31,7 @@ An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI.
 	* Select `"Favicon Progress"`
 8. In settings, search for `Tab bar`.
 	* Unselect `Display Synced Tabs Button`
-9. (Optional - page accent colors) In settings, go to: `Themes > Editor`
+9. In settings, search for `"User interface Zoom"`.
+	* Make sure it's set to `100%`
+10. (Optional - page accent colors) In settings, go to: `Themes > Editor`
 	* Enable `Accent from Page`
