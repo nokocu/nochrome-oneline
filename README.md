@@ -1,5 +1,5 @@
 # nochrome oneline
-An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI. 
+An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI (Windows only, for now...)
 
 ![screenshot 3.png](screenshot%203.png)
 
@@ -11,6 +11,7 @@ An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI.
 ![screenshot 4.png](screenshot%204.png)
 
 ## Installation
+0. Make sure you're on Windows. Linux and macos are not yet fully supported
 1.  [Download the latest `nochrome-oneline.zip`](https://github.com/nokocu/nochrome-oneline/releases)
 	* Unzip the contents of the zip to folder in your Documents, called `nochrome-oneline`
 2. Go to `vivaldi://experiments`
