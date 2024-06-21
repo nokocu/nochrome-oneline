@@ -1,5 +1,5 @@
 # nochrome oneline
-An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI (Windows only, for now...)
+An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI (Windows and Linux only, macos support coming later)
 
 ![screenshot 3.png](screenshot%203.png)
 
@@ -36,3 +36,9 @@ An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI (W
 	* Make sure it's set to `100%`
 10. (Optional - page accent colors) In settings, go to: `Themes > Editor`
 	* Enable `Accent from Page`
+
+## Known issues:
+- macOS is not supported yet
+- Tab stacking not working correctly
+- Location and microphone access dialogs not showing up
+- Synced tabs button is hidden (heavily misaligned when shown)
