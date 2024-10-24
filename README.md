@@ -1,4 +1,5 @@
 # nochrome oneline
+24.10.24: OUTDATED due to Vivaldi's redesign, requires some tweaking
 An "oneline" CSS theme for Vivaldi Browser, heavily inspired by the chrome UI
 
 ![screenshot 3.png](screenshot%203.png)
